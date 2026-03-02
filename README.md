@@ -1,6 +1,6 @@
-📊 Student Exam Score Prediction Dashboard
+📊 **Student Exam Score Prediction Dashboard**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project focuses on predicting student exam scores using Machine Learning and visualizing the predicted results through an interactive dashboard.
 
@@ -18,7 +18,7 @@ The system performs:
 
 6.This project demonstrates an end-to-end ML workflow from model building to deployment.
 
-🎯 Objective
+🎯 **Objective**
 
 1.To build a real-time industry-level machine learning system that:
 
@@ -30,7 +30,7 @@ The system performs:
 
 5.Deploys the solution as a live web application
 
-🛠 Technologies Used
+🛠 **Technologies Used**
 
 Python
 
@@ -48,7 +48,7 @@ GitHub
 
 Streamlit Cloud (Deployment)
 
-⚙️ Machine Learning Workflow
+⚙️ **Machine Learning Workflow**
 
 1.Data Collection
 
@@ -66,7 +66,7 @@ Streamlit Cloud (Deployment)
 
 8.Dashboard Visualization
 
-📊 Dashboard Features
+📊 **Dashboard Features**
 
 🔹 Page 1: Overview
 
@@ -90,7 +90,7 @@ Writing score distribution
 
 Comparative analysis
 
-📈 Key Visualizations
+📈 **Key Visualizations**
 
 1.Histogram for subject score distribution
 
@@ -100,7 +100,7 @@ Comparative analysis
 
 4.Data table preview
 
-🚀 Deployment
+🚀 **Deployment**
 
 The application is deployed using:
 
@@ -110,13 +110,13 @@ Streamlit Cloud - http://localhost:8501
 
 The project can be accessed via a live deployment link.
 
-💡 Use Cases
+💡 **Use Cases**
 
 Educational Data Analysis
 
 Student Performance Forecasting
 
-📌 Future Enhancements
+📌 **Future Enhancements**
 
 1.Real-time prediction input form
 
@@ -128,6 +128,6 @@ Student Performance Forecasting
 
 5.Power BI integration for enterprise analytics
 
-👩‍💻 Author
+👩‍💻 **Author**
 
 Subiya V M
