@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# Generated prediction files
+prediction_output.csv
+prediction_output_full.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
